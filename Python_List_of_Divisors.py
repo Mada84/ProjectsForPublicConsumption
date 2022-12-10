@@ -10,4 +10,3 @@ for i in range(1, num):
 
 #outputting results 
 print('the divisors of the number you inputed are \n', LIST)
-
